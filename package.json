@@ -1,0 +1,18 @@
+{
+  "name": "greeter",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "openzeppelin-solidity": "^3.4.0",
+    "truffle": "^5.2.2"
+  },
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "description": ""
+}
